@@ -4,7 +4,7 @@ A professional portfolio website showcasing my experience as a Software Develope
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://yourusername.github.io/vaishali-portfolio/](https://yourusername.github.io/vaishali-portfolio/)
+Visit the live website: [https://vaishalimurugavel.github.io](https://vaishalimurugavel.github.io/)
 
 ## 🛠️ Built With
 
