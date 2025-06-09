@@ -9,8 +9,8 @@ const Education: React.FC = () => {
       location: 'Boston, MA',
       period: 'Expected May 2027',
       description: 'Focusing on advanced topics in software engineering, machine learning, and distributed systems.',
-      gpa: '3.17/4.0',
-      coursework: ['Programming Design Paradigm (PDP)', 'Foundations of Artificial Intelligence', 'Natural Language Processing (NLP)']
+      gpa: '4.0',
+      coursework: ['Algorithms & Data Structures', 'Machine Learning', 'Database Systems', 'Software Engineering']
     },
     {
       degree: 'Bachelor of Technology in Information Technology',

@@ -45,7 +45,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, scrollToSection }) => {
 
           <div className="flex items-center space-x-4">
             <a
-              href="https://drive.google.com/file/d/1whjb70VvMfBQEBtCZ0iaHIyk8vbNE7tS/view?usp=sharing"
+              href="/VaishaliMurugavel.pdf"
               download
               className="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200"
             >
