@@ -60,6 +60,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: vaishali.murugavel@example.com
+- **Email**: vaishali.murugavel@gmail.com
 - **LinkedIn**: [linkedin.com/in/vaishali-murugavel-79a268177/](https://linkedin.com/in/vaishali-murugavel-79a268177/)
 - **GitHub**: [github.com/vaishalimurugavel](https://github.com/vaishalimurugavel)
