@@ -4,7 +4,7 @@ A professional portfolio website showcasing my experience as a Software Develope
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://yourusername.github.io/vaishali-portfolio/](https://yourusername.github.io/vaishali-portfolio/)
+Visit the live website: [https://vaishalimurugavel.github.io](https://vaishalimurugavel.github.io/)
 
 ## 🛠️ Built With
 
@@ -60,6 +60,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: vaishali.murugavel@example.com
+- **Email**: vaishali.murugavel@gmail.com
 - **LinkedIn**: [linkedin.com/in/vaishali-murugavel-79a268177/](https://linkedin.com/in/vaishali-murugavel-79a268177/)
 - **GitHub**: [github.com/vaishalimurugavel](https://github.com/vaishalimurugavel)
